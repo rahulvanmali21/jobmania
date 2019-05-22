@@ -1,11 +1,7 @@
 # JOB MANIA ( Jobs portal )
-****
+
 ## This Web based Application is made using PHP as core backend and MySQL as a relational database
 
-
-
-
-****
 
 
 **Setup and Installation**
