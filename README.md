@@ -18,3 +18,5 @@
 6.  Enter your gmail account and password` $gmail_emailID = "your gmail"; ` and ` $gmaill_password = "your password";   ` , to use google mail server
 7. Change the gmail setting > Account setting > check use less secure app 
 
+**screenshot**
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/1.png)
