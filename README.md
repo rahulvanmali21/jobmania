@@ -20,3 +20,17 @@
 
 **screenshot**
 ![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/1.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/2.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/3.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/4.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/5.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/6.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/7.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/8.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/9.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/10.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/11.png)
+![landing page](https://github.com/rahulvanmali21/jobmania/blob/master/screenshots/12.png)
+
+
+
